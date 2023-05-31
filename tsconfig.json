@@ -23,6 +23,6 @@
       "<d>/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/pages/index.js", "src/app/components/Todo.js", "src/app/components/TodoList.js"],
   "exclude": ["node_modules"]
 }
